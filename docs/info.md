@@ -10,11 +10,14 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+The project works using an AND gate. Once the program runs, if gate 1 AND gate 3 are turned on, the LED light will turn on.  
 
 ## How to test
 
 Explain how to use your project
+If you press the run button, then turn on gates 1 and 3, the LED light will light up. If one or both of those gates are turned off, the LED light will turn off. 
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Output LED 

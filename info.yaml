@@ -4,7 +4,7 @@ project:
   title:        "Beginner IC Circuit"      # Project title
   author:       "Shreya Nara"      # Your name
   discord:      "shreyanara"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Logic gates 1 AND 3 turns on LED1"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
